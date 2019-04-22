@@ -1,0 +1,9 @@
+ -- THINGS TO DISCUSS ---
+ - Where are we? (SBM Poisson, Latent Space)
+ - Current problems (switching label issue - want to do inference on discrete variable w/o sampling directly, but probability is of partitioning so posterior is multimodal, several chains doesn't work etc.)
+ - Where would we like to go? (testing (!!!), different rate on diagonal, recovering mixture probabilities, MMSBM etc.)
+ - Plan until wednesday
+  - PGM (we can do a couple already)
+  - Generative model (we can do a couple already)
+  - Initial results and reflections
+
