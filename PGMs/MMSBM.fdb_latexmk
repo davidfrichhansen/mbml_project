@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1557475414 "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.tex" "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.pdf" "MMSBM" 1557475426
-  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.aux" 1557475415 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.tex" 1557475426 844 d7293bf15d23f7aec7fc1f3051fda4ad ""
+["pdflatex"] 1557480926 "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.tex" "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.pdf" "MMSBM" 1557480926
+  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.aux" 1557480926 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.tex" 1557480894 844 d7293bf15d23f7aec7fc1f3051fda4ad ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -142,11 +142,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1553245869 3236106 bef0cf154a3167603a4917a99a2c80c5 ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1553245885 4227038 3296b1a2ff921586413fd209591546d8 ""
   "/usr/local/texlive/2018/texmf.cnf" 1553245866 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "MMSBM.aux" 1557475415 8 a94a2480d3289e625eea47cd1b285758 ""
-  "MMSBM.tex" 1557475426 844 d7293bf15d23f7aec7fc1f3051fda4ad ""
+  "MMSBM.aux" 1557480926 8 a94a2480d3289e625eea47cd1b285758 ""
+  "MMSBM.tex" 1557480894 844 d7293bf15d23f7aec7fc1f3051fda4ad ""
   (generated)
+  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.log"
   "MMSBM.pdf"
   "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.pdf"
   "MMSBM.log"
   "MMSBM.aux"
-  "/home/david/Documents/Universitet/5_aar/42186ModelBasedML/project/mbml_project/PGMs/MMSBM.log"
